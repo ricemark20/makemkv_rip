@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Convert mkv files in bulk with all available subtitles.
+# Convert mkv files in bulk with all available subtitles using Handbrake.
 
 mkdir encoded
 
